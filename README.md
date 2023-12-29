@@ -4,7 +4,10 @@ Hi 👋
 Backend Developer
 -----------------
 
-I'm Deepak Jaiswal, a passionate software engineer specializing in backend development with Node.js. With a fervor for exploring emerging technologies, mentoring budding professionals, and spearheading innovative projects, I'm committed to fostering learning and growth in the tech community. Over the past 3 years, I've honed my skills and expertise, contributing to notable projects such as Minoan experience. My relentless pursuit of knowledge enables me to craft solutions that align with and address diverse business requirements effectively. Beyond the realm of software development, I indulge in reading tech blogs, exploring new coding languages or frameworks, and immersing myself in the virtual worlds of games like Assassin's Creed. Thank you for visiting my profile. I eagerly anticipate future collaborations, interactions, and opportunities to connect. Let's join forces, collaborate, and craft impactful solutions that drive innovation and excellence!
+I'm Deepak Jaiswal, a passionate software engineer specializing in backend development with Node.js. With a fervor for exploring emerging technologies, mentoring budding professionals, and spearheading innovative projects, I'm committed to fostering learning and growth in the tech community. 
+Over the past 3 years, I've honed my skills and expertise, contributing to notable projects such as Minoan experience. My relentless pursuit of knowledge enables me to craft solutions that align with and address diverse business requirements effectively. 
+Beyond the realm of software development, I indulge in reading tech blogs, exploring new coding languages or frameworks, and immersing myself in the virtual worlds of games like Assassin's Creed. 
+Thank you for visiting my profile. I eagerly anticipate future collaborations, interactions, and opportunities to connect. Let's join forces, collaborate, and craft impactful solutions that drive innovation and excellence!
 
 * 🌍  I'm based in Gurgaon, India.
 * ✉️  You can contact me at [jaiswaldeepak264@gmail.com](mailto:jaiswaldeepak264@gmail.com)
